@@ -36,6 +36,8 @@ https://www.jetbrains.com/community/education/#courses
 - How about writing a CV
 - TDD katas as homework - a LOT of them
 - Data structures and algorithms 
+- On university basic programming/DB/algorithms course takes about 15 (times) x 2 (hours each) x 2 (lecture + workshop/exercises) = 60 hrs. We can use it as a timebox
+- Spring Core certification training lasts four full days, we can also use it as a guidance for timebox. Of course our Spring course must be more relaxed
 
 ## Interesting resources
 
