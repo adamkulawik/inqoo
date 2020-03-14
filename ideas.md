@@ -10,8 +10,6 @@
 - Spring Framework
 - JPA basics
 - MS Azure basics
-- OOP basics with basic design patterns
-- Basic data structures and algorithms
 - JUnit5
 - REST
 
@@ -24,6 +22,11 @@
 - CI/CD
 - TDD
 - Refactoring
+
+### General programming knowledge
+
+- OOP basics with basic design patterns
+- Basic data structures and algorithms
 
 ### Other
 
