@@ -43,6 +43,8 @@ https://www.jetbrains.com/community/education/#courses
 - Spring Core certification training lasts four full days, we can also use it as a guidance for timebox. Of course our Spring course must be more relaxed
 - Some basic networking concepts? What is DNS, net, subnet, VPN... ?
 - Some computer sciencs basics might be useful - von Neuman arhcitecture, resource management (in operating system understanding, not some product owners :) ), recursion problems (chess knight moves), concurrency (dining philosophers, Byzantian fault tolerance)...
+- Introduction to work with logs: logging, reading logs from bash console
+- Bash console - just few useful commands (ls, cd, grep, touch...)
 
 ## Interesting resources
 
