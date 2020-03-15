@@ -41,6 +41,8 @@ https://www.jetbrains.com/community/education/#courses
 - Data structures and algorithms 
 - On university basic programming/DB/algorithms course takes about 15 (times) x 2 (hours each) x 2 (lecture + workshop/exercises) = 60 hrs. We can use it as a timebox
 - Spring Core certification training lasts four full days, we can also use it as a guidance for timebox. Of course our Spring course must be more relaxed
+- Some basic networking concepts? What is DNS, net, subnet, VPN... ?
+- Some computer sciencs basics might be useful - von Neuman arhcitecture, resource management (in operating system understanding, not some product owners :) ), recursion problems (chess knight moves), concurrency (dining philosophers, Byzantian fault tolerance)...
 
 ## Interesting resources
 
